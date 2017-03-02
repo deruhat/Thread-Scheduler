@@ -1,7 +1,7 @@
 /*
  * Authors: Kunal Pednekar
  *          Abdulellah Abualshour
- *			Christopher Orthmann
+ *	    Christopher Orthmann
  * iLab:	cpp.cs.rutgers.edu
  * This is the .c file that contains implementations of the functions declared in the .h file
  * Contains:
